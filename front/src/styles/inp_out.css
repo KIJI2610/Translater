@@ -1,0 +1,33 @@
+.container-inp-out{
+    width: 1000px;
+    height: 500px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    margin-top: 20px;
+    padding-bottom: 4px;
+    display: flex;
+    padding-left: 10px;
+    padding-right: 10px;
+    box-sizing: border-box;
+    box-shadow: 0px 0px 5px 1px rgba(123, 123, 123, 0.4);
+}
+.inp-out-field{
+    background-color: rgba(0, 0, 0, 0);
+    font-weight: 600;
+    font-size: 16pt;
+    resize: none;
+    height: 100%;
+    border: none;
+    outline: none;  
+    color: rgb(115, 91, 138); 
+    width: 50%;
+    padding-top: 10px;
+}
+.left-field{
+    border-right: 1px solid rgb(219, 219, 219)
+}
+.psuh-data{
+    margin-top: 20px;
+    font-size: 16pt;
+    box-shadow: 0px 0px 5px 1px rgba(123, 123, 123, 0.4);
+}
